@@ -1,0 +1,27 @@
+[
+{
+  "firstName": "Hitesh",
+				"middleName": "kumar ",
+				"lastName": "Goyal",
+				"email": "hiteshgoyal@example.com",
+				"phoneNumber": "1234567890",
+				"role": "User",
+				"address": "World-trade park jaipur"
+  
+},
+
+{
+
+  "firstName": "Mohit",
+  "middleName": "kumar ",
+  "lastName": "Akhori",
+  "email": "mohitkumar@example.com",
+  "phoneNumber": "9876543210",
+  "role": "Admin",
+  "address": "Pink Square Jaipur"
+}
+
+]
+
+
+  
